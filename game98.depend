@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1494390516 source:c:\users\huy chuong uet\desktop\tqlong\game98\game.cpp
+	<stdio.h>
+	<conio.h>
+	"game.h"
+
+1494390566 c:\users\huy chuong uet\desktop\tqlong\game98\game.h
+	<windows.h>
+
+1494390593 source:c:\users\huy chuong uet\desktop\tqlong\game98\game98.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"game.h"
+
+1494390516 source:c:\users\admin\desktop\game98\game.cpp
+	<stdio.h>
+	<conio.h>
+	"game.h"
+
+1494390566 c:\users\admin\desktop\game98\game.h
+	<windows.h>
+
+1494486023 source:c:\users\admin\desktop\game98\game98.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"game.h"
+
+1494390516 source:c:\users\huy chuong uet\desktop\game98\game.cpp
+	<stdio.h>
+	<conio.h>
+	"game.h"
+
+1494486966 c:\users\huy chuong uet\desktop\game98\game.h
+	<windows.h>
+
+1494487287 source:c:\users\huy chuong uet\desktop\game98\game98.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"game.h"
+
+1494390516 source:c:\users\huy chuong uet\desktop\tqlong\new folder\game98\game.cpp
+	<stdio.h>
+	<conio.h>
+	"game.h"
+
+1494486966 c:\users\huy chuong uet\desktop\tqlong\new folder\game98\game.h
+	<windows.h>
+
+1494487287 source:c:\users\huy chuong uet\desktop\tqlong\new folder\game98\game98.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"game.h"
+
+1494390516 source:c:\users\huy chuong uet\desktop\new folder (2)\new folder\game98\game.cpp
+	<stdio.h>
+	<conio.h>
+	"game.h"
+
+1494486966 c:\users\huy chuong uet\desktop\new folder (2)\new folder\game98\game.h
+	<windows.h>
+
+1494529683 source:c:\users\huy chuong uet\desktop\new folder (2)\new folder\game98\game98.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"game.h"
+
+1494390516 source:d:\my project\game98\game.cpp
+	<stdio.h>
+	<conio.h>
+	"game.h"
+
+1494486966 d:\my project\game98\game.h
+	<windows.h>
+
+1494529702 source:d:\my project\game98\game98.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<cmath>
+	"game.h"
+
